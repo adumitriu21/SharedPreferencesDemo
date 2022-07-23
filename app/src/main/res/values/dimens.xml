@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margins">10dp</dimen>
+    <dimen name="titleTxt">30sp</dimen>
+    <dimen name="regTxt">20sp</dimen>
+    <dimen name="btnTxt">15sp</dimen>
+</resources>

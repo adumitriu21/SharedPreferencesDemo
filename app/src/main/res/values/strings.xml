@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AdrianDumitriu_COMP304_Midterm</string>
+    <string name="soccer">Soccer</string>
+    <string name="basketball">Basketball</string>
+    <string name="tennis">Tennis</string>
+    <string name="yourName">Please enter your name..</string>
+    <string name="goToSaveName">Proceed to save player\'s name</string>
+    <string name="noName">Please enter your name before proceeding!</string>
+    <string name="welcome">Welcome</string>
+    <string name="savedSoccerAthlete">"Your saved Soccer Athlete: %1$s"</string>
+    <string name="savedBasketballAthlete">"Your saved Basketball Athlete: %1$s"</string>
+    <string name="savedTennisAthlete">"Your saved Tennis Athlete: %1$s"</string>
+    <string name="soccerAthleteName">Please enter soccer athlete name</string>
+    <string name="basketballAthleteName">Please enter basketball athlete name</string>
+    <string name="tennisAthleteName">Please enter tennis athlete name</string>
+    <string name="saveSoccer">Save soccer player\'s name</string>
+    <string name="saveBasketball">Save basketball player\'s name</string>
+    <string name="saveTennis">Save tennis player\'s name</string>
+    <string name="soccerAthSaved">Soccer player saved!</string>
+    <string name="basketballAthSaved">Basketball player saved!</string>
+    <string name="tennisAthSaved">Teniss player saved!</string>
+    <string name="name">User Name</string>
+</resources>
